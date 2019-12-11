@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "cSpell.words": [
+    "Parens",
+    "amazonaws",
+    "ondataavailable"
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
